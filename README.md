@@ -1,1 +1,2 @@
 # ESP-32_IoT_homeautomation_webserver_using_animations
+Hi There, in here I'm gonna show you how to improvise the ESP-32 soft access point webserver using animations.I'm gonna show you how to manipulate both the physical bulb as well as the animated virtual bulb.For reference refer to the code uploaded into the repository.Here I have used GPIO 26 for providing connections,but you are absolutely free to use whatever GPIO you are interested in,but make sure you make the changes in the code.The prerequisite is to have the latest version of Arduino IDE installed in your device.
